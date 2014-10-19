@@ -17,8 +17,11 @@ cargo run -- -c example/exampleconf.json
 ```
 
 ## Example results
+### Lines plot
 ![alt tag](https://raw.githubusercontent.com/ivpusic/abplot/master/example/lines.png)
+### Boxes plot (number of request per second)
 ![alt tag](https://raw.githubusercontent.com/ivpusic/abplot/master/example/boxes.png)
+### Points plot
 ![alt tag](https://raw.githubusercontent.com/ivpusic/abplot/master/example/points.png)
 
 ### Configuration
