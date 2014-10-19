@@ -1,24 +1,24 @@
 {
     "urls": [{
-    	"address": "http://example.com/",
-    	"title": "localhost"
+    	"address": "http://localhost:9000/",
+    	"title": "server1"
 		}, {
-			"address": "http://www.jabuka.tv/",
-			"title": "jabuka.tv"
+			"address": "http://localhost:3000/",
+			"title": "server2"
 		}],
-    "c": 10,
-    "n": 100,
+    "c": 100,
+    "n": 10000,
 		"graphs": {
 			"lines": {
-				"title": "graph title",
-				"file": "/home/ivpusic/projects/abplot/lines.png"
+				"title": "Title of graph",
+				"file": "lines.png"
 			},
 			"points": {
-				"title": "points graph title",
+				"title": "Title of graph",
 				"file": "points.png"
 			},
 			"boxes": {
-				"title": "title of graph",
+				"title": "Title of graph",
 				"file": "boxes.png"
 			}
 		}
