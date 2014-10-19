@@ -7,6 +7,7 @@ Concurrent execution of ab tests and visualizing results using gnuplot
 - [ab](http://httpd.apache.org/docs/2.2/en/programs/ab.html)
 - [gnuplot](http://www.gnuplot.info/)
 - [rust](http://www.rust-lang.org/install.html)
+- [cargo](http://doc.crates.io/)
 
 ## How to run?
 ```
