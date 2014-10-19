@@ -30,30 +30,32 @@ You can provide your configuration using ``-c`` option. Configuration is in ``js
 
 ```json
 {
-    "urls": [{
-    	"address": "http://localhost:9000/",
-    	"title": "server1"
-		}, {
-			"address": "http://localhost:3000/",
-			"title": "server2"
-		}
-	],
-	"c": 100,
-	"n": 10000,
-	"graphs": {
-		"lines": {
-			"title": "Title of graph",
-			"file": "lines.png"
-		},
-		"points": {
-			"title": "Title of graph",
-			"file": "points.png"
-		},
-		"boxes": {
-			"title": "Title of graph",
-			"file": "boxes.png"
-		}
-	}
+  "urls": [
+    {
+      "address": "http:\/\/localhost:9000\/",
+      "title": "server1"
+    },
+    {
+      "address": "http:\/\/localhost:3000\/",
+      "title": "server2"
+    }
+  ],
+  "c": 100,
+  "n": 10000,
+  "graphs": {
+    "lines": {
+      "title": "Title of graph",
+      "file": "lines.png"
+    },
+    "points": {
+      "title": "Title of graph",
+      "file": "points.png"
+    },
+    "boxes": {
+      "title": "Title of graph",
+      "file": "boxes.png"
+    }
+  }
 }
 ```
 
