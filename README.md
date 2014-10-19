@@ -73,6 +73,7 @@ Every definition contains title and file path where image representation will be
 
 ## TODO:
 - support for headers, cookies, etc. (-C, -H, etc. options)
+- improve error handling (``scripts`` dir path, etc.)
 - tests
 
 # License
