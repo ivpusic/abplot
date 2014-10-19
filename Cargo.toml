@@ -1,0 +1,8 @@
+[package]
+
+name = "abplot"
+version = "0.0.1"
+authors = ["ivpusic <pusic007@gmail.com>"]
+
+[dependencies.uuid]
+git = "https://github.com/rust-lang/uuid.git"

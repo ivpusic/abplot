@@ -1,0 +1,25 @@
+{
+    "urls": [{
+    	"address": "http://example.com/",
+    	"title": "localhost"
+		}, {
+			"address": "http://www.jabuka.tv/",
+			"title": "jabuka.tv"
+		}],
+    "c": 10,
+    "n": 100,
+		"graphs": {
+			"lines": {
+				"title": "graph title",
+				"file": "/home/ivpusic/projects/abplot/lines.png"
+			},
+			"points": {
+				"title": "points graph title",
+				"file": "points.png"
+			},
+			"boxes": {
+				"title": "title of graph",
+				"file": "boxes.png"
+			}
+		}
+}
